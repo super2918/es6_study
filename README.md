@@ -5,7 +5,7 @@
 * Array
 * Object
 * Destructuring
-* Set & WeakSet
+* Set & WeakSet 
 * Map & WeakMap
 * Template
 * function 
@@ -16,5 +16,5 @@
 
 
 ℹ️ Reference
-> 모던 자바스크립트 (Javascript) 개발을 위한 ES6강좌 
+> 모던 자바스크립트 (Javascript) 개발을 위한 ES6 강좌 참고
 
